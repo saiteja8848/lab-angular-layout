@@ -1,0 +1,9 @@
+#home>h3,p{
+    margin:10px;
+}
+#footer{
+    color: white;
+    height: 30px;
+    margin:5px;
+    background-color: orangered;
+}

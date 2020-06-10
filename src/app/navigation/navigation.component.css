@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+    display: flex;
+    
+}
+ul>li{
+    padding:7px;
+    margin:7px;
+}
+nav{
+    border-bottom: 2px solid orangered;
+    
+}
+a{
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: none;
+}
